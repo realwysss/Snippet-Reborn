@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.png" width="420"></p>
+
 # snippet reborn
 
 a small screenshot mod for fabric 1.21.11. it is a full rewrite, nothing was copied from the old snippet mod.
