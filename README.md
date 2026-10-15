@@ -18,6 +18,6 @@ you need fabric loader 0.19 or newer and fabric api. mod menu is only needed if 
 
 ## build
 
-`./gradlew build`, the jar ends up in build/libs. `./gradlew runClientGameTest` runs the tests.
+`./gradlew build`, the jar ends up in build/libs.
 
-all rights reserved, see LICENSE.
+all rights reserved. made by wysss.

@@ -5,7 +5,7 @@
   "name": "Snippet Reborn",
   "description": "the only screenshot mod you ever need",
   "authors": ["wys"],
-  "license": "All Rights Reserved",
+  "license": "All-Rights-Reserved",
   "environment": "client",
   "entrypoints": {
     "client": ["dev.snprb.snprb"],
